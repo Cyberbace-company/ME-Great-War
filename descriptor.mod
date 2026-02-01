@@ -1,0 +1,15 @@
+version="1.17.2"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Historical"
+	"Map"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+	"Graphics"
+	"Military"
+}
+name="ME Great War"
+supported_version="1.17.3.0"
