@@ -9,13 +9,14 @@ state={
 		steel=2.000
 	}
 	history={
-		owner = LAT
+		owner = SOV
 		add_core_of = LAT
 		buildings = {
 			infrastructure = 3
 			air_base = 2
 		}
 		add_core_of = LIV
+		add_core_of = SOV
 		victory_points = {
 			10388 2 
 		}

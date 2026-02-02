@@ -6,8 +6,9 @@ state={
 		4422 7829 
 	}
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = POL
+		add_core_of = AUS
 		add_core_of = UKR
 		buildings = {
 			infrastructure = 3

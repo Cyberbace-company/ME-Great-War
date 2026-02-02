@@ -4,13 +4,14 @@ state={
 	name="STATE_112"
 
 	history={
-		owner = LAT
+		owner = SOV
 		add_core_of = LAT
 		buildings = {
 			infrastructure = 2
 
 		}
 		add_core_of = LIV
+		add_core_of = SOV
 
 	}
 

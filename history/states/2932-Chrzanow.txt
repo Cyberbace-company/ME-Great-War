@@ -5,8 +5,9 @@ state={
 		12676 
 	}
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = POL
+		add_core_of = AUS
 		add_core_of = MLP
 		buildings = {
 			infrastructure = 3

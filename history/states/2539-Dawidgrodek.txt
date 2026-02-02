@@ -5,8 +5,9 @@ state={
 		2009 9601 19949 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = BLR
 		add_core_of = PLS
 		buildings = {

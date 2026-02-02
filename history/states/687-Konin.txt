@@ -6,8 +6,9 @@ state={
 		7051 11784 11820 11844 11854 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = WKP
 		buildings = {
 			infrastructure = 3

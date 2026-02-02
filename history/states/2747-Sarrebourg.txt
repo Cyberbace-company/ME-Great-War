@@ -5,8 +5,9 @@ state={
 		13246 
 	}
 	history={
-		owner = FRA
+		owner = GER
 		add_core_of = FRA
+		add_core_of = GER
 		add_core_of = LOR
 		buildings = {
 			infrastructure = 4

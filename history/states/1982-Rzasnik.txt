@@ -5,8 +5,9 @@ state={
 		4974 11466 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		ADD_core_of = MZV
 		victory_points = {
 			11466 5 #Ostrołęka

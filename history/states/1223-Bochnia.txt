@@ -7,8 +7,9 @@ state={
 	}
 	resources = { oil = 3 }
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = POL
+		add_core_of = AUS
 		victory_points = {
 			12722 2 #Bochnia
 		}

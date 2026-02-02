@@ -6,8 +6,9 @@ state={
 		1134 4816 5922 9152 11068 11078 11092 11123 11139 11191 11195 11249 19932 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_claim_by = LIT
 		add_core_of = BLR
 		add_core_of = DKJ

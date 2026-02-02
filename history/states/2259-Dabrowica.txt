@@ -6,8 +6,9 @@ state={
 		11989 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = UKR
 		add_core_of = VLH
 		add_core_of = PLS

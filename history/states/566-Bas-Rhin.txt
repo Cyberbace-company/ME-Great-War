@@ -6,8 +6,9 @@ state={
 		steel=50.000 coal = 8
 	}
 	history={
-		owner = FRA
+		owner = GER
 		add_core_of = FRA
+		add_core_of = GER
 		buildings = {
 			infrastructure = 4
 			air_base = 5

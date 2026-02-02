@@ -6,8 +6,9 @@ state={
 		1568 2073 6536 7521 8252 10856 10916 20003 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = BLR
 		buildings = {
 			infrastructure = 3

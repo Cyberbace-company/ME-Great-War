@@ -6,8 +6,8 @@ state={
 		2958 4274 5984 7733 11243 11314 
 	}
 	history={
-		owner = POL
-		add_core_of = POL
+		owner = GER
+		add_core_of = GER
 		add_core_of = WPR
 		victory_points = {
 			2958 2 #Brodnica

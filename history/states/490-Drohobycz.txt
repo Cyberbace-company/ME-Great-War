@@ -4,8 +4,9 @@ state={
 	name="STATE_490"
 
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = GAL
+		add_core_of = AUS
 		add_core_of = POL
 		add_core_of = WUK
 		add_core_of = UKR

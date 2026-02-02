@@ -5,8 +5,9 @@ state={
 		6515 6534 12675 12690 12711 12718 
 	}
 	history={
-		owner = POL
+		owner = GER
 		add_core_of = POL
+		add_core_of = GER
 		victory_points = {
 			12690 5 #Rybnik
 		}

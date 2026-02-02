@@ -6,8 +6,9 @@ state={
 		1405 2845 2960 3266 3508 4627 6010 6573 6962 12702 12749 12819 
 	}
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = POL
+		add_core_of = AUS
 		add_core_of = GAL
 		add_core_of = UKR
 		buildings = {

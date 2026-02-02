@@ -6,8 +6,9 @@ state={
 		249 7679 9005 12883 
 	}
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = POL
+		add_core_of = AUS
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 4

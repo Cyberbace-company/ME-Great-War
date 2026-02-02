@@ -4,8 +4,9 @@ state={
 	name="STATE_1131"
 
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = VLH
 		add_core_of = MZV
 		buildings = {

@@ -5,8 +5,9 @@ state={
 		12484 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = GAL
 		add_claim_by = UKR
 		buildings = {

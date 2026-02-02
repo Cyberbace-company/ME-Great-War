@@ -5,12 +5,13 @@ state={
 		2095 11099 
 	}
 	history={
-		owner = POL
-		add_core_of = POL
+		owner = GER
+		add_core_of = GER
 		buildings = {
 			infrastructure = 3
 		}
 		add_core_of = PML
+		add_core_of = POL
 		add_core_of = WPR
   	}
 	manpower=53560

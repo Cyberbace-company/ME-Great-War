@@ -6,8 +6,9 @@ state={
 		3034 4365 7533 11767 11845 11855 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		ADD_core_of = MZV
 		victory_points = {
 			11767 2 #Sochaczew

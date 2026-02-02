@@ -6,8 +6,9 @@ state={
 		5766 19919 
 	}
 	history={
-		owner = POL
+		owner = AUS
 		add_core_of = POL
+		add_core_of = AUS
 		add_core_of = GAL
 		add_claim_by = UKR
 		buildings = {

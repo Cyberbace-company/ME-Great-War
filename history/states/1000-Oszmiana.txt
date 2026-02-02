@@ -6,8 +6,9 @@ state={
 		7154 7842 7860 10792 10935 20001 
 	}
 	history={
-		owner = POL
+		owner = SOV
 		add_core_of = POL
+		add_core_of = SOV
 		add_core_of = CLT
 		add_claim_by = LIT
 		add_core_of = BLR

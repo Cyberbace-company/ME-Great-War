@@ -6,8 +6,9 @@ state={
 		3810 6812 10474 19996 
 	}
 	history={
-		owner = LIT
+		owner = SOV
 		add_core_of = LIT
+		add_core_of = SOV
 		add_core_of = SMG
 		buildings = {
 			infrastructure = 3
