@@ -1,4 +1,4 @@
-version="0.0.1"
+version="1.17.2"
 tags={
 	"Alternative History"
 	"Events"
@@ -11,7 +11,7 @@ tags={
 	"Graphics"
 	"Military"
 }
-
+name="ME Great War"
 
 replace_path="map"
 replace_path="map/strategicregions"
@@ -20,9 +20,8 @@ replace_path="history/states"
 replace_path="history/countries"
 replace_path="common/country_tags"
 replace_path="common/countries"
+replace_path="common/country_tag_aliases"
+replace_path="common/bookmarks"
 
-
-name="ME Great War"
 supported_version="1.17.3.0"
-
-path="mod/ME-Great-War"
+path="C:/Users/tarom/Documents/Paradox Interactive/Hearts of Iron IV/mod/ME-Great-War"

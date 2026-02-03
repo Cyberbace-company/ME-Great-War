@@ -1,4 +1,4 @@
-version="0.2.2"
+version="0.0.1"
 tags={
 	"Alternative History"
 	"Events"
@@ -11,10 +11,6 @@ tags={
 	"Graphics"
 	"Military"
 }
-name="ME Great War"
-picture="thumbnail.png"
-path="mod/ME-Great-War"
-
 
 replace_path="map"
 replace_path="map/strategicregions"
@@ -23,5 +19,8 @@ replace_path="history/states"
 replace_path="history/countries"
 replace_path="common/country_tags"
 replace_path="common/countries"
+replace_path="common/country_tag_aliases"
+replace_path="common/bookmarks"
 
+name="ME Great War"
 supported_version="1.17.3.0"

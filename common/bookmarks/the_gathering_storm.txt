@@ -1,0 +1,130 @@
+bookmarks = {
+	bookmark = {
+		name = "WAR_ON_THE_HORIZON"
+		desc = "WAR_ON_THE_HORIZON_DESC"
+		date = 1910.01.01.12
+		picture = "GFX_select_date_1910"
+		default_country = "GER"
+		default = yes
+		
+		"FRA" = {
+			history = "FRA_WAR_ON_THE_HORIZON_DESC"
+			ideology = "democratic"
+			ideas = {}
+			focuses = {}
+		
+		}
+		"GER"= {
+			history = "GER_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"SOV" = {
+			history = "SOV_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"ENG" = {
+			history = "ENG_WAR_ON_THE_HORIZON_DESC"
+			ideology = "democratic"
+			ideas = {}
+			focuses = {}
+		}
+		"AUS" = {
+			history = "AUS_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"ITA" = {
+			history = "ITA_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"USA" = {
+			history = "USA_WAR_ON_THE_HORIZON_DESC"
+			ideology = "democratic"
+			ideas = {}
+			focuses = {}
+		}
+		"TUR" = {
+			history = "TUR_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"BUL" = {
+			minor = yes
+			history = "BUL_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"SER" = {
+			minor = yes
+			history = "SER_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"GRE" = {
+			minor = yes
+			history = "GRE_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"ROM" = {
+			minor = yes
+			history = "ROM_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"HUN" = {
+			minor = yes
+			history = "HUN_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"BEL" = {
+			minor = yes
+			history = "BEL_WAR_ON_THE_HORIZON_DESC"
+			ideology = "democratic"
+			ideas = {}
+			focuses = {}
+		}
+		"NED" = {
+			minor = yes
+			history = "NED_WAR_ON_THE_HORIZON_DESC"
+			ideology = "democratic"
+			ideas = {}
+			focuses = {}
+		}
+		"LUX" = {
+			minor = yes
+			history = "LUX_WAR_ON_THE_HORIZON_DESC"
+			ideology = "democratic"
+			ideas = {}
+			focuses = {}
+		}
+		"MON" = {
+			minor = yes
+			history = "MON_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+		"EGY" = {
+			minor = yes
+			history = "EGY_WAR_ON_THE_HORIZON_DESC"
+			ideology = "authoritarian"
+			ideas = {}
+			focuses = {}
+		}
+	}
+}	
