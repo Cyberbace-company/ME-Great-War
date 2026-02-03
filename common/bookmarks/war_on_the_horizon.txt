@@ -98,31 +98,10 @@ bookmarks = {
 			ideas = {}
 			focuses = {}
 		}
-		"NED" = {
+		"HOL" = {
 			minor = yes
 			history = "NED_WAR_ON_THE_HORIZON_DESC"
 			ideology = "democratic"
-			ideas = {}
-			focuses = {}
-		}
-		"LUX" = {
-			minor = yes
-			history = "LUX_WAR_ON_THE_HORIZON_DESC"
-			ideology = "democratic"
-			ideas = {}
-			focuses = {}
-		}
-		"MON" = {
-			minor = yes
-			history = "MON_WAR_ON_THE_HORIZON_DESC"
-			ideology = "authoritarian"
-			ideas = {}
-			focuses = {}
-		}
-		"EGY" = {
-			minor = yes
-			history = "EGY_WAR_ON_THE_HORIZON_DESC"
-			ideology = "authoritarian"
 			ideas = {}
 			focuses = {}
 		}

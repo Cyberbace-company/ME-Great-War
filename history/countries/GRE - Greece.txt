@@ -87,7 +87,7 @@ reverse_add_opinion_modifier = {
 	target = ITA
 	modifier = italo_greek_friendship_treaty
 }
-1936.1.1 = {
+1908.1.1 = {
 	if = {
 		limit = { has_dlc = "Battle for the Bosporus" }
 		give_guarantee = TUR

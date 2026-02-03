@@ -580,7 +580,7 @@ set_grand_doctrine = grand_battleplan
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1936.1.1" #Was 1932.11.27 but changed to allow for Government Resigns focus to simulate this election.
+	last_election = "1908.1.1" #Was 1932.11.27 but changed to allow for Government Resigns focus to simulate this election.
 	election_frequency = 48
 	elections_allowed = yes
 }

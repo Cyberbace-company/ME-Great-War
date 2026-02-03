@@ -25,7 +25,7 @@ set_convoys = 10
 add_ideas = { neutrality_idea civilian_economy }
 set_politics = {
 	ruling_party = fascism
-	last_election = "1936.1.1"
+	last_election = "1908.1.1"
 	election_frequency = 72
 	elections_allowed = yes
 }

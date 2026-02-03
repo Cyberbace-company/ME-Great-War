@@ -110,7 +110,7 @@ if = {
 	}
 }
 
-1936.1.1 = {
+1908.1.1 = {
 	if = { 
 		limit = { has_dlc = "Battle for the Bosporus" }	
 		set_variable = { var = TUR_kemalist_power_variable value = 5 }
