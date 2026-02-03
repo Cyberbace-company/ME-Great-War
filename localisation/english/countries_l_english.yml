@@ -246,8 +246,8 @@
 
    #NEUTRALITY
 
-    AUS_neutrality:0 "Federal State of Austria"
-    AUS_neutrality_DEF:0 "the Federal State of Austria"
+    AUS_neutrality:0 "Austrian Empire"
+    AUS_neutrality_DEF:0 "the Austrian Empire"
     AUS_neutrality_ADJ:0 "Austrian"
 
    #TAG
@@ -438,8 +438,8 @@
 
    #NEUTRALITY
 
-    BOS_neutrality:0 "Republic of Bosnia and Herzegovina"
-    BOS_neutrality_DEF:0 "the Republic of Bosnia and Herzegovina"
+    BOS_neutrality:0 "Condominium of Bosnia and Herzegovina"
+    BOS_neutrality_DEF:0 "the Condominium of Bosnia and Herzegovina"
     BOS_neutrality_ADJ:0 "Bosnian"
 
    #TAG
@@ -502,8 +502,8 @@
 
    #NEUTRALITY
 
-    BRI_neutrality:0 "Breton Republic"
-    BRI_neutrality_DEF:0 "the Breton Republic"
+    BRI_neutrality:0 "Duchy of Brittany"
+    BRI_neutrality_DEF:0 "the Duchy of Brittany"
     BRI_neutrality_ADJ:0 "Breton"
 
    #TAG
@@ -566,8 +566,8 @@
 
    #NEUTRALITY
 
-    BLR_neutrality:0 "Byelorussian People's Republic"
-    BLR_neutrality_DEF:0 "the Byelorussian People's Republic"
+    BLR_neutrality:0 "Kingdom of Byelorussia"
+    BLR_neutrality_DEF:0 "the Kingdom of Byelorussia"
     BLR_neutrality_ADJ:0 "Byelorussian"
 
    #TAG
@@ -758,8 +758,8 @@
 
    #NEUTRALITY
 
-    CRI_neutrality:0 "Crimean People's Republic"
-    CRI_neutrality_DEF:0 "the Crimean People's Republic"
+    CRI_neutrality:0 "Duchy of Crimea"
+    CRI_neutrality_DEF:0 "the Duchy of Crimea"
     CRI_neutrality_ADJ:0 "Crimean"
 
    #TAG
@@ -1014,8 +1014,8 @@
 
    #NEUTRALITY
 
-    DON_neutrality:0 "Almighty Don Host"
-    DON_neutrality_DEF:0 "the Almighty Don Host"
+    DON_neutrality:0 "Don Cossack Host"
+    DON_neutrality_DEF:0 "the Don Cossack Host"
     DON_neutrality_ADJ:0 "Donian"
 
    #TAG
@@ -1110,8 +1110,8 @@
 
    #NEUTRALITY
 
-    FIN_neutrality:0 "Republic of Finland"
-    FIN_neutrality_DEF:0 "the Republic of Finland"
+    FIN_neutrality:0 "Kingdom of Finland"
+    FIN_neutrality_DEF:0 "the Kingdom of Finland"
     FIN_neutrality_ADJ:0 "Finnish"
 
    #TAG
@@ -1238,8 +1238,8 @@
 
    #NEUTRALITY
 
-    GER_neutrality:0 "German Reich"
-    GER_neutrality_DEF:0 "the German Reich"
+    GER_neutrality:0 "German Empire"
+    GER_neutrality_DEF:0 "the German Empire"
     GER_neutrality_ADJ:0 "German"
 
    #TAG
@@ -3222,15 +3222,15 @@
 
    #NEUTRALITY
 
-    SOV_neutrality:0 "Russian State"
-    SOV_neutrality_DEF:0 "the Russian State"
+    SOV_neutrality:0 "Russian Empire"
+    SOV_neutrality_DEF:0 "the Russian Empire"
     SOV_neutrality_ADJ:0 "Russian"
 
    #TAG
 
-    SOV:0 "Soviet Union"
-    SOV_DEF:0 "the Soviet State"
-    SOV_ADJ:0 "Soviet"
+    SOV:0 "Russian Empire"
+    SOV_DEF:0 "the Russian Empire"
+    SOV_ADJ:0 "Russian"
 
  ###SPAIN
 
@@ -3544,14 +3544,14 @@
 
    #NEUTRALITY
 
-    TUR_neutrality:0 "Republic of Turkey"
-    TUR_neutrality_DEF:0 "the Republic of Turkey"
-    TUR_neutrality_ADJ:0 "Turkish"
+    TUR_neutrality:0 "Ottoman Empire"
+    TUR_neutrality_DEF:0 "the Ottoman Empire"
+    TUR_neutrality_ADJ:0 "Ottoman"
 
    #TAG
 
-    TUR:0 "Turkey"
-    TUR_DEF:0 "the Turkish State"
+    TUR:0 "Ottoman Empire"
+    TUR_DEF:0 "the Ottoman Empire"
     TUR_ADJ:0 "Turkish"
 
  ###TURKMENISTAN
