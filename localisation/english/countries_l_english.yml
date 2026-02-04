@@ -2045,7 +2045,7 @@
    #TAG
 
     KUB:0 "Kuban"
-    KUB_DEF:0 "the Kubanian State"
+    x:0 "the Kubanian State"
     KUB_ADJ:0 "Kubanian"
 
  ###KURDISTAN

@@ -1,0 +1,56 @@
+add_namespace = germany
+country_event = {
+    id = Event_GER_state_of_the_reich.1
+    title = Event_GER_state_of_the_reich.1.title
+    desc = Event_GER_state_of_the_reich.1.desc
+
+    is_triggered_only = yes
+    option = {
+        name = Event_GER_state_of_the_reich.1.a
+    }
+}
+country_event = {
+    id = Event_GER_upholding_bismarckian_system.1
+    title = Event_GER_upholding_bismarckian_system.1.title
+    desc = Event_GER_upholding_bismarckian_system.1.desc
+
+    is_triggered_only = yes
+    option = {
+        name = Event_GER_upholding_bismarckian_system.1.a
+    }
+}
+country_event = {
+    id = Event_GER_keep_the_status_quo.1
+    title = Event_GER_keep_the_status_quo.1.title
+    desc = Event_GER_keep_the_status_quo.1.desc
+
+    is_triggered_only = yes
+    option = {
+        name = Event_GER_keep_the_status_quo.1.a
+    }
+}
+
+country_event = {
+    id = Event_GER_Weltpolitik.1
+    title = Event_GER_Weltpolitik.1.title
+    desc = Event_GER_Weltpolitik.1.desc
+
+    is_triggered_only = yes
+    option = {
+        name = Event_GER_Weltpolitik.1.a
+    }
+}
+
+country_event = {
+    id = Event_GER_looking_to_afrika.1
+    title = Event_GER_looking_to_afrika.1.title
+    desc = Event_GER_looking_to_afrika.1.desc
+
+    is_triggered_only = yes
+    option = {
+        name = Event_GER_looking_to_afrika.1.a
+    }
+    option = {
+        name = Event_GER_looking_to_afrika.1.b
+    }
+}
