@@ -1,0 +1,24 @@
+1st focus 
+Name: State of the Reich
+Description: The German Reich requires decisive leadership, where shall you lead it?
+Completion: event fires with basic history and flavor text about the state of Germany in the current year. notes the importance of the upcoming budget talks in the Reichstag. event has two choices: "the matter of national security is paramount" or "we must ensure the welfare of our citizens".
+neither choice does anything mechanically, but sets up flavor for future events. 15 days
+
+Right side path, democratic/athoritarian/facist kaiserreich side
+focus name: Upholding the Bismarckian System, 15 days
+description: The Bismarckian system of social welfare and state control has kept Germany stable for decades. We must ensure its continuation to maintain order and prosperity.
+next focus set is a choice between two "Strengthening the Reichstag" or "keep the hounds of socalism at bay"
+
+focus name: Strengthening the Reichstag, 35 days start of the democratic kaiserreich path 
+description: The people have the ultimate say in the governance of the Reich. We must empower the Reichstag to ensure that the voices of our citizens are heard and respected. 
+completion: grants 15 political power, increases democratic support by 5%.
+
+focus name: Keep the Hounds of Socialism at Bay, 35 days start of the authoritarian/facist path
+description: The rise of socialist or democratic agitators threatens every aspect of german society. We must continue to suppress these dangerous elements to preserve the strength and unity of the Reich.
+completion: increases authoritarian support by 5%, grants 30 political power.
+|
+middle-between dem kr and auth kr starts
+focus name: the 1910s Budget Crisis, 70 days
+description: The Reichstag is deadlocked over the national budget, with factions unable to agree on funding priorities. This crisis threatens to paralyze our government and undermine public confidence.
+completion: event fires with two choices: "compromise for the good of the nation" or "stand firm on our principles". #both sides get same choices, leads to three seperate eco paths. if dem kr was chosen standing ground gives option to go left civ buff path, middle compromise for both. or if right kr mil/dockyard buffs.# plan is to base middle on irl 1910 budget.
+
