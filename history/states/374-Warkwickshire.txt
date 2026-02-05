@@ -6,8 +6,8 @@ state={
 		1909 6923 8176 8809 11674 11698 19415 
 	}
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		add_core_of = MER
 		buildings = {
 			infrastructure = 4

@@ -6,9 +6,9 @@ state={
 		steel=2.000
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = LAT
-		add_core_of = SOV
+		add_core_of = RUS
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

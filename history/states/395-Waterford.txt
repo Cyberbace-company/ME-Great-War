@@ -5,8 +5,8 @@ state={
 		7284 7746 11815 11874 
 	}
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		add_core_of = IRE
 		buildings = {
 			infrastructure = 3

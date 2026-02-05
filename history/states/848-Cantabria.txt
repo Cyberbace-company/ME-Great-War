@@ -6,8 +6,8 @@ state={
 		993 3642 5832 14741 19763 
 	}
 	history={
-		owner = SPR
-		add_core_of = SPR
+		owner = SPK
+		add_core_of = SPK
 		add_core_of = CBR
 		add_core_of = CSV
 		buildings = {

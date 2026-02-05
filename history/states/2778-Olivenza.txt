@@ -5,9 +5,9 @@ state={
 		18656 
 	}
 	history={
-		owner = SPR
+		owner = SPK
 		add_core_of = EXT
-		add_core_of = SPR
+		add_core_of = SPK
 		add_core_of = POR
 		buildings = {
 			infrastructure = 3

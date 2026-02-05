@@ -6,8 +6,8 @@ state={
 		3156 5582 10733 10801 10811 19389 19390 
 	}
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

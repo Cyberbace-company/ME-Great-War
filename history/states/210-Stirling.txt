@@ -3,8 +3,8 @@ state={
 	id=210
 	name="STATE_210"
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		buildings = {
 			infrastructure = 4
 		}

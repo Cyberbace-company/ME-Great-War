@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = JDZ
-		add_core_of = SYR
+		add_core_of = OTT
 		add_core_of = JDZ
 		victory_points = { 21285 2 }
 		buildings = {

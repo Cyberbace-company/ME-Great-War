@@ -4,8 +4,8 @@ state={
 	name="STATE_324"
 	resources = { aluminium = 4 }
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		add_core_of = MER
 		buildings = {
 			infrastructure = 4

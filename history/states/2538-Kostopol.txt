@@ -6,9 +6,9 @@ state={
 		684 1161 2456 5894 6615 7371 7482 8026 
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = POL
-		add_core_of = SOV
+		add_core_of = RUS
 		victory_points = {
 			6615 2 #Kostopol
 		}

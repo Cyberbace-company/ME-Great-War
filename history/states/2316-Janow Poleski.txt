@@ -5,9 +5,9 @@ state={
 		3314 5111 8812 
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = POL
-		add_core_of = SOV
+		add_core_of = RUS
 		add_core_of = BLR
 		add_core_of = PLS
 		buildings = {

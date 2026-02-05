@@ -9,9 +9,9 @@ state={
 		steel=4.000
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = LIT
-		add_core_of = SOV
+		add_core_of = RUS
 		add_core_of = SMG
 		buildings = {
 			infrastructure = 3

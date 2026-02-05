@@ -7,9 +7,9 @@ state={
 	}
 	resources = { steel = 8.000 }
 	history={
-		owner = SPR
+		owner = SPK
 		add_core_of = ADU
-		add_core_of = SPR
+		add_core_of = SPK
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

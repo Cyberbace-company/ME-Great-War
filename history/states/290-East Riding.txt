@@ -5,8 +5,8 @@ state={
 		105 5068 5616 5672 7848 10979 11054 11088 
 	}
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		add_core_of = YOR
 		add_core_of = NRT
 		buildings = {

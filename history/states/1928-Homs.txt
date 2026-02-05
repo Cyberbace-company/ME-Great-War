@@ -4,8 +4,8 @@ state={
 	name="STATE_1928"
 
 	history={
-		owner = SYR
-		add_core_of = SYR
+		owner = OTT
+		add_core_of = OTT
 		victory_points = { 15631 20 }
 		buildings = {
 			infrastructure = 2

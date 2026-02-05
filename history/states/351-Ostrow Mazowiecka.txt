@@ -4,9 +4,9 @@ state={
 	name="STATE_351"
 
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = POL
-		add_core_of = SOV
+		add_core_of = RUS
 		ADD_core_of = MZV
 		victory_points = {
 			4076 2 

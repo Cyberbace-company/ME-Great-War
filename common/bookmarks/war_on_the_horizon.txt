@@ -20,7 +20,7 @@ bookmarks = {
 			ideas = {}
 			focuses = {}
 		}
-		"SOV" = {
+		"RUS" = {
 			history = "SOV_WAR_ON_THE_HORIZON_DESC"
 			ideology = "authoritarian"
 			ideas = {}
@@ -50,7 +50,7 @@ bookmarks = {
 			ideas = {}
 			focuses = {}
 		}
-		"TUR" = {
+		"OTT" = {
 			history = "TUR_WAR_ON_THE_HORIZON_DESC"
 			ideology = "authoritarian"
 			ideas = {}
@@ -98,7 +98,7 @@ bookmarks = {
 			ideas = {}
 			focuses = {}
 		}
-		"HOL" = {
+		"NED" = {
 			minor = yes
 			history = "NED_WAR_ON_THE_HORIZON_DESC"
 			ideology = "democratic"

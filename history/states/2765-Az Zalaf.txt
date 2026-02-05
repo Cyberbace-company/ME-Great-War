@@ -6,7 +6,7 @@ state={
 	}
 	history={
 		owner = JDZ
-		add_core_of = SYR
+		add_core_of = OTT
 		add_core_of = JDZ
 		add_core_of = JBS
 		buildings = {

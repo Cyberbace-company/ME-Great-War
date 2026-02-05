@@ -5,8 +5,8 @@ state={
 
 	resources = { tungsten = 27 }
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		buildings = {
 			infrastructure = 2
 			anti_air_building = 2

@@ -6,9 +6,9 @@ state={
 		6049 6496 12016 12104 
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = POL
-		add_core_of = SOV
+		add_core_of = RUS
 		add_core_of = UKR
 		add_core_of = VLH
 		add_core_of = PLS

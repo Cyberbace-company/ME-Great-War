@@ -6,9 +6,9 @@ state={
 		9162 10756 19928 
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = POL
-		add_core_of = SOV
+		add_core_of = RUS
 		add_core_of = CLT
 		add_core_of = LIT
 		add_core_of = AKS

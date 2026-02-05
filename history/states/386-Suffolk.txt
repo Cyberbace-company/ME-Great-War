@@ -2,8 +2,8 @@ state={
 	id=386
 	name="STATE_386"
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		add_core_of = EAG
 		victory_points = {
 			6529 10 

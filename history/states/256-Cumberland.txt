@@ -6,8 +6,8 @@ state={
 		1842 3895 6682 8723 10775 10802 19396 
 	}
 	history={
-		owner = ENG
-		add_core_of = ENG
+		owner = GBR
+		add_core_of = GBR
 		add_core_of = NRT
 		add_core_of = CMB
 		buildings = {

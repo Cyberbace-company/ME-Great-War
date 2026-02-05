@@ -6,9 +6,9 @@ state={
 		7307 11774 11800 
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		add_core_of = POL
-		add_core_of = SOV
+		add_core_of = RUS
 		ADD_core_of = MZV
 		buildings = {
 			arms_factory = 5

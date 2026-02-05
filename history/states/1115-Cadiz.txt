@@ -6,9 +6,9 @@ state={
 		2830 4706 5098 5892 6552 15513 19767 19770 
 	}
 	history={
-		owner = SPR
+		owner = SPK
 		add_core_of = ADU
-		add_core_of = SPR
+		add_core_of = SPK
 		buildings = {
 			infrastructure = 3
 			19767 = { naval_base = 4 }
