@@ -22,7 +22,7 @@
                 <mxCell id="145" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="5" target="144" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="178" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="177">
+                <mxCell id="178" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5" target="177" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="left oposition&lt;div&gt;45 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -260,12 +260,14 @@
                 <mxCell id="60" value="&lt;div&gt;Seek Contracts with dutch Railways&lt;/div&gt;&lt;div&gt;70 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1100" y="800" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="62" target="33" edge="1">
+                <mxCell id="61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="62" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="900" y="960"/>
-                            <mxPoint x="940" y="960"/>
+                            <mxPoint x="900" y="1060"/>
+                            <mxPoint x="955" y="1060"/>
                         </Array>
+                        <mxPoint x="895" y="770" as="sourcePoint"/>
+                        <mxPoint x="960" y="1060" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="62" value="&lt;div&gt;Moltke the younger&lt;/div&gt;&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;sets Moltke as chief of army&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -411,27 +413,27 @@
                     <mxGeometry x="1560" y="1400" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="138" value="right 1911 budget" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="480" y="920" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="520" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="139" value="Historical 1911 budget" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="360" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="140" value="left 1911 budget" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="240" y="920" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="200" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="141" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="940" width="60" height="40" as="geometry"/>
+                    <mxGeometry x="290" y="940" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="142" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=27;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="141" target="141" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="143" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="430" y="940" width="60" height="40" as="geometry"/>
+                    <mxGeometry x="450" y="940" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="147" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="144" target="146" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="170" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="144" target="169">
+                <mxCell id="170" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="144" target="169" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="144" value="Force the budget issue&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;-authoritarian support&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -440,7 +442,7 @@
                 <mxCell id="149" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="146" target="148" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="172" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="146" target="171">
+                <mxCell id="172" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="146" target="171" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="146" value="Organize the workers&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;Nationwide strikes -25%stab&lt;/div&gt;&lt;div&gt;authoritarian -20% support&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -479,10 +481,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="174" style="edgeStyle=none;html=1;" edge="1" parent="1" source="148" target="173">
+                <mxCell id="174" style="edgeStyle=none;html=1;" parent="1" source="148" target="173" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="176" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="148" target="175">
+                <mxCell id="176" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="148" target="175" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="148" value="The spark to light a fire" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -521,20 +523,32 @@
                 <mxCell id="168" value="over here will be spd forcing power away from the kaiser and cronies&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-290" y="720" width="190" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="169" value="(description) The kaiser has long overstreched his authority, this assembly is here at the will of the german people. The kaiser can no longer hold a knife to the will of our nation, the budget will be used as the people have voted. If the Kaiser and his puppets will not relent we will organize a nationwide strike." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="169" value="(description) The kaiser has long overstreched his authority, this assembly is here at the will of the german people. The kaiser can no longer hold a knife to the will of our nation, the budget will be used as the people have voted. If the Kaiser and his puppets will not relent we will organize a nationwide strike." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-1370" y="317.5" width="499" height="85" as="geometry"/>
                 </mxCell>
-                <mxCell id="171" value="(description) The Kaiser has not accepted the calls of his people, he has lost the authority vested in him we must take to the streets to proof our resolve." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="171" value="(description) The Kaiser has not accepted the calls of his people, he has lost the authority vested in him we must take to the streets to proof our resolve." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-1290" y="480" width="350" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="173" value="(description) the situation in the streets has disolved into anarchy, troops patrol the streets at this rate we are only days away from unavoidable conflict." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="173" value="(description) the situation in the streets has disolved into anarchy, troops patrol the streets at this rate we are only days away from unavoidable conflict." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-1330" y="560" width="200" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="175" value="(event that fires once finished) (TITLE) {The Postdam Massacre} The streets of potsdam are silent, just hours ago troops of the (insert german division) mowed down at least three hundred people. local commanders are now taking matters into their own hands, local soviets are declaring for the revolution nation wide. Luddendorf has made grab for power in hamburg, the Reich is dissolving before our eyes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="175" value="(event that fires once finished) (TITLE) {The Postdam Massacre} The streets of potsdam are silent, just hours ago troops of the (insert german division) mowed down at least three hundred people. local commanders are now taking matters into their own hands, local soviets are declaring for the revolution nation wide. Luddendorf has made grab for power in hamburg, the Reich is dissolving before our eyes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-1100" y="620" width="320" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="177" value="(description The upcoming budget debate is the clearest opportunity we have to restore the working of our democratic system, we must work to reform our coalitions with similar parties and this will be the great stepping stone for the rights and freedom of the german people." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="177" value="(description The upcoming budget debate is the clearest opportunity we have to restore the working of our democratic system, we must work to reform our coalitions with similar parties and this will be the great stepping stone for the rights and freedom of the german people." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-1965" y="190" width="255" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="180" target="184">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="Mobilize the economy 14 days&lt;div&gt;add war economy&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="960" y="1240" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="33" target="180">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="1400" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
