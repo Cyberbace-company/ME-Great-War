@@ -6,7 +6,7 @@ state={
 		19397 
 	}
 	history={
-		owner = ISM
+		owner = GBR
 		add_core_of = ISM
 		buildings = {
 			infrastructure = 4
