@@ -16,7 +16,7 @@ state={
 		victory_points = {
 			12953 5 #Kaiserslautern
 		}
-		set_demilitarized_zone = yes
+		set_demilitarized_zone = no
     }
 	manpower=267928
 	buildings_max_level_factor=1.000

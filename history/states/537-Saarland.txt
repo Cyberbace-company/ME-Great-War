@@ -24,7 +24,7 @@ state={
         victory_points = {
             6453 2 #Neunkirchen
         }
-		set_demilitarized_zone = yes
+		set_demilitarized_zone = no
     }
 	manpower=588080
 	buildings_max_level_factor=1.000

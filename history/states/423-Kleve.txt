@@ -17,7 +17,7 @@ state={
         victory_points = {
             11955 2 #Kleve
         }
-		set_demilitarized_zone = yes
+		set_demilitarized_zone = no
     }
 	provinces={
 		4941 8240 9187 11955 12019 
