@@ -5,7 +5,9 @@ state={
 		20346 
 	}
 	history={
-		owner = GRE
+		owner = OTT
+		add_core_of = OTT
+		add_core_of = BUL
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2

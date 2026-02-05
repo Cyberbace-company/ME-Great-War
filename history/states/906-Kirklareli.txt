@@ -5,6 +5,8 @@ state={
 
 	history={
 		owner = OTT
+        add_core_of = GRE
+		add_core_of = BUL
 		add_core_of = OTT
 		add_core_of = THR
 		add_core_of = STZ

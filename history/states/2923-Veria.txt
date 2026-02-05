@@ -6,7 +6,7 @@ state={
 		15110 20347 
 	}
 	history={
-		owner = GRE
+		owner = OTT
 		add_core_of = GRE
 		buildings = {
 			infrastructure = 2

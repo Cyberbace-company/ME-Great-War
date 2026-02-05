@@ -5,7 +5,8 @@ state={
 		20286 
 	}
 	history={
-		owner = GRE
+		owner = OTT
+		add_core_of = BUL
 		add_core_of = GRE
 		add_claim_by = BUL
 		buildings = {

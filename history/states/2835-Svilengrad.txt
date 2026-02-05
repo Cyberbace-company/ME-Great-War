@@ -5,7 +5,8 @@ state={
 		17923 20377 
 	}
 	history={
-		owner = BUL
+		owner = OTT
+		add_core_of = OTT
 		add_core_of = BUL
 		add_core_of = THR
 		add_core_of = RUM
