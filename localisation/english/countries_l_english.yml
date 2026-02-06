@@ -452,33 +452,33 @@
 
    #COMMUNISM
 
-    ENG_communism:0 "Union of Britain"
-    ENG_communism_DEF:0 "the Union of Britain"
-    ENG_communism_ADJ:0 "British"
+    GBR_communism:0 "Union of Britain"
+    GBR_communism_DEF:0 "the Union of Britain"
+    GBR_communism_ADJ:0 "British"
 
    #DEMOCRATIC
 
-    ENG_democratic:0 "United Kingdom"
-    ENG_democratic_DEF:0 "the United Kingdom"
-    ENG_democratic_ADJ:0 "British"
+    GBR_democratic:0 "United Kingdom"
+    GBR_democratic_DEF:0 "the United Kingdom"
+    GBR_democratic_ADJ:0 "British"
 
    #FASCISM
 
-    ENG_fascism:0 "British Empire"
-    ENG_fascism_DEF:0 "the British Empire"
-    ENG_fascism_ADJ:0 "British"
+    GBR_fascism:0 "British Empire"
+    GBR_fascism_DEF:0 "the British Empire"
+    GBR_fascism_ADJ:0 "British"
 
    #NEUTRALITY
 
-    ENG_neutrality:0 "United Kingdom"
-    ENG_neutrality_DEF:0 "the United Kingdom"
-    ENG_neutrality_ADJ:0 "British"
+    GBR_neutrality:0 "United Kingdom"
+    GBR_neutrality_DEF:0 "the United Kingdom"
+    GBR_neutrality_ADJ:0 "British"
 
    #TAG
 
-    ENG:0 "Britain"
-    ENG_DEF:0 "the British State"
-    ENG_ADJ:0 "British"
+    GBR:0 "Britain"
+    GBR_DEF:0 "the British State"
+    GBR_ADJ:0 "British"
 
  ###BRITTANY
 

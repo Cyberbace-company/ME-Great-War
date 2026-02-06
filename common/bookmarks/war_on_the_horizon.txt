@@ -26,8 +26,8 @@ bookmarks = {
 			ideas = {}
 			focuses = {}
 		}
-		"ENG" = {
-			history = "ENG_WAR_ON_THE_HORIZON_DESC"
+		"GBR" = {
+			history = "GBR_WAR_ON_THE_HORIZON_DESC"
 			ideology = "democratic"
 			ideas = {}
 			focuses = {}
