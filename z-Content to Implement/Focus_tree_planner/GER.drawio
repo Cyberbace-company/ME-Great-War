@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="W4rTkrrh1Mt7Rhmvq8_p" name="Page-1">
-        <mxGraphModel dx="3636" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="6894" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -734,6 +734,12 @@
                 <mxCell id="246" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="-640" y="1260" width="80" height="80" as="geometry"/>
                 </mxCell>
+                <mxCell id="247" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;endWidth=120;endSize=22.48;startWidth=280;startSize=14.92;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="-2450" y="1840" as="sourcePoint"/>
+                        <mxPoint x="4048" y="1770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
@@ -742,20 +748,20 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Eo5mvKNy_ZbfCr7GUXIj-1">
+                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Eo5mvKNy_ZbfCr7GUXIj-1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="280" y="178.37764705882353" as="targetPoint"/>
                         <mxPoint x="150" y="151.6129411764706" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-1" value="Naval arms race&amp;nbsp;&lt;div&gt;production cost -10%&lt;/div&gt;&lt;div&gt;pp-2%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-1" value="Naval arms race&amp;nbsp;&lt;div&gt;production cost -10%&lt;/div&gt;&lt;div&gt;pp-2%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="30" y="30" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="280" y="30" width="640" height="270" as="geometry"/>
                 </mxCell>
-                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-4" value="Prussian legasy&amp;nbsp;&lt;div&gt;ws+10&lt;/div&gt;&lt;div&gt;st+10&lt;/div&gt;&lt;div&gt;attack boost +5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="30" y="500" width="120" height="60" as="geometry"/>
+                <mxCell id="Eo5mvKNy_ZbfCr7GUXIj-4" value="Prussian legasy&amp;nbsp;&lt;div&gt;ws+10&lt;/div&gt;&lt;div&gt;st+10&lt;/div&gt;&lt;div&gt;attack boost +5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="150" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
