@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="W4rTkrrh1Mt7Rhmvq8_p" name="Page-1">
-        <mxGraphModel dx="7980" dy="2565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="3636" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -511,7 +511,7 @@
                 <mxCell id="164" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
                     <mxGeometry x="-1440" y="820" width="240" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="245" style="edgeStyle=none;html=1;" edge="1" parent="1" source="165">
+                <mxCell id="245" style="edgeStyle=none;html=1;" parent="1" source="165" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="-600" y="1260" as="targetPoint"/>
                     </mxGeometry>
@@ -570,7 +570,7 @@
                 <mxCell id="206" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="187" target="193" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="187" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="187" value="new marine techology&lt;div&gt;research spped +25 submarines&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2340" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="207" style="edgeStyle=none;html=1;" parent="1" source="188" edge="1">
@@ -584,7 +584,7 @@
                 <mxCell id="205" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="189" target="194" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="189" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="189" value="east colonys" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2640" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="202" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="190" target="187" edge="1">
@@ -593,7 +593,7 @@
                 <mxCell id="204" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="190" target="194" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="190" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="190" value="Ship designer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2440" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="201" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="191" target="188" edge="1">
@@ -602,7 +602,7 @@
                 <mxCell id="203" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="191" target="187" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="191" value="improve nabal infustructure&lt;div&gt;+2 shipyards&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="191" value="improve naval infustructure&lt;div&gt;+2 shipyards&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2240" y="400" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="200" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="192" target="188" edge="1">
@@ -617,7 +617,7 @@
                 <mxCell id="208" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="194" target="193" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="194" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="194" value="Ship techologys" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2550" y="500" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="197" style="edgeStyle=none;html=1;entryX=0.6;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="186" target="190" edge="1">
@@ -626,19 +626,19 @@
                 <mxCell id="242" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="209" target="240" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="209" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="209" value="One germany one empier, one holy german empier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3470" y="810" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="239" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="210" target="209" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="210" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="210" value="The transilvanian question&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3550" y="690" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="238" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="211" target="209" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="211" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="211" value="support the cheh ressiastance&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3390" y="680" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="231" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="212" target="215" edge="1">
@@ -661,7 +661,7 @@
                 <mxCell id="235" style="edgeStyle=none;html=1;" parent="1" source="214" target="211" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="214" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="214" value="Adriatic treaty&lt;br&gt;Italy joins the allience" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3390" y="570" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="241" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="215" target="240" edge="1">
@@ -679,7 +679,7 @@
                 <mxCell id="236" style="edgeStyle=none;html=1;" parent="1" source="217" target="210" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="217" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="217" value="Serbian claims on bosnia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3550" y="570" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="225" style="edgeStyle=none;html=1;" parent="1" source="218" edge="1">
@@ -693,7 +693,7 @@
                 <mxCell id="234" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="218" target="217" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="218" value="backstub" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="218" value="backstub&lt;div&gt;remove austria from allience&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3460" y="450" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="229" style="edgeStyle=none;html=1;" parent="1" source="219" target="213" edge="1">
@@ -731,7 +731,7 @@
                 <mxCell id="244" value="aftter the first balkan war&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3240" y="770" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="246" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="246" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="-640" y="1260" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
