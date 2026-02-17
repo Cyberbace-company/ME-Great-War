@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="W4rTkrrh1Mt7Rhmvq8_p" name="Page-1">
-        <mxGraphModel dx="4486" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="6067" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -59,12 +59,25 @@
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="200" y="480"/>
-                            <mxPoint y="480"/>
+                            <mxPoint x="120" y="480"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="14" target="42" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="200" y="480"/>
+                            <mxPoint y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="383" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="14" target="381">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="200" y="480"/>
+                            <mxPoint x="-240" y="480"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="14" value="Democratic kr&lt;div&gt;35 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="160" y="360" width="80" height="80" as="geometry"/>
@@ -78,7 +91,12 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="19" target="23" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="480"/>
+                            <mxPoint x="670" y="480"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="19" target="26" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -120,8 +138,8 @@
                 <mxCell id="131" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="23" target="117" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Kaisers conservative government&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;35 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="640" y="520" width="80" height="80" as="geometry"/>
+                <mxCell id="23" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Kaisers conservative government&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;35 days&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;(requires conservative or historical budget)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="510" width="100" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="26" target="62" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -143,7 +161,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="26" value="All the Kaiser&#39;s men&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;35 days&lt;br&gt;&lt;/font&gt;&lt;div&gt;+100 pp&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="26" value="All the Kaiser&#39;s men&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;35 days&lt;br&gt;&lt;/font&gt;&lt;div&gt;+100 pp&lt;/div&gt;&lt;/div&gt;&lt;div&gt;(requires any 1910 budget)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="760" y="520" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9" target="14" edge="1">
@@ -195,11 +213,14 @@
                 <mxCell id="40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="41" target="70" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="Empower the people&lt;div&gt;35 days +5% dem support (requires 1910 budget finalized&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-40" y="520" width="80" height="80" as="geometry"/>
+                <mxCell id="41" value="Empower the people&lt;div&gt;35 days +5% dem support (requires any 1910 budget finalized)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="520" width="100" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="80" y="520" width="80" height="80" as="geometry"/>
+                <mxCell id="372" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="42" target="371">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Limit the power of Junkers&amp;nbsp;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;(requires liberal 1910 budget)&lt;br&gt;&lt;/font&gt;&lt;div&gt;add national modifer for 120 days &quot;restrcted junker privileges mil construction speed -20% mil/dockyard out put -5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="520" width="130" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="48" target="52" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -298,8 +319,8 @@
                 <mxCell id="124" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="70" target="123" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="70" value="Strengthen the rights of unions" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-40" y="680" width="80" height="80" as="geometry"/>
+                <mxCell id="70" value="Strengthen the rights of unions&lt;div&gt;-5% effiency growth, +5% efficency cap&lt;/div&gt;&lt;div&gt;35 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="680" width="90" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="71" value="Improve fortifications along the eastern border" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1200" y="640" width="80" height="80" as="geometry"/>
@@ -352,7 +373,7 @@
                 <mxCell id="103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="98" target="102" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="98" value="Infantry Unit Tactics&lt;div&gt;+infantry specialization +35%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="98" value="Early Infantry Unit Tactics&lt;div&gt;+infantry specialization +35%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1400" y="1400" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="104" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="100" target="102" edge="1">
@@ -391,8 +412,8 @@
                 <mxCell id="128" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="117" target="127" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="Refer to the kaiser on matters of state&lt;div&gt;35 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="480" y="620" width="80" height="80" as="geometry"/>
+                <mxCell id="117" value="Refer to the kaiser on matters of state&lt;div&gt;35 days(requires either conservative budget or kaiser gov)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="620" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="119" value="reinforce hollwegs neutral stance" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="360" y="620" width="80" height="80" as="geometry"/>
@@ -400,35 +421,17 @@
                 <mxCell id="121" value="Placate hollweg" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="240" y="620" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="123" value="Strengthen the rights of unions" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-40" y="840" width="80" height="80" as="geometry"/>
+                <mxCell id="123" value="Regulate corporate housing complexs&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;multiple rhine/ruhr states remove 1 civ add max infa, modify national modifer &quot;cramped urban housing&quot; by construction speed -5% starting efficency cap +10%&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;70 days&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="55" y="800" width="150" height="150" as="geometry"/>
                 </mxCell>
                 <mxCell id="127" value="Replace Hollweg" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="480" y="780" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="560" y="780" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="129" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;entryX=0.675;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="114" target="127" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="134" value="Chemical weapons?&lt;div&gt;(1917)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1560" y="1400" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="138" value="right 1911 budget" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="920" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="139" value="Historical 1911 budget" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="360" y="920" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="140" value="left 1911 budget" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="200" y="920" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="141" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="290" y="940" width="60" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="142" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=27;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="141" target="141" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="143" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="450" y="940" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="147" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="144" target="146" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -448,28 +451,27 @@
                 <mxCell id="146" value="Organize the workers&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;Nationwide strikes -25%stab&lt;/div&gt;&lt;div&gt;authoritarian -20% support&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="-1560" y="440" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="151" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="148" target="150" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="152" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="148" target="150" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="154" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="148" target="153" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="-1480" y="760"/>
-                            <mxPoint x="-1160" y="760"/>
+                            <mxPoint x="-1070" y="760"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="155" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="148" target="150" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-1480" y="760"/>
+                            <mxPoint x="-1810" y="760"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="157" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="148" target="156" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="-1480" y="760"/>
-                            <mxPoint x="-1840" y="760"/>
+                            <mxPoint x="-2439" y="760"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -477,7 +479,7 @@
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="-1480" y="760"/>
-                            <mxPoint x="-2320" y="760"/>
+                            <mxPoint x="-3385" y="760"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -487,64 +489,38 @@
                 <mxCell id="176" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="148" target="175" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="148" value="The spark to light a fire" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="148" value="The spark to light a fire&lt;div&gt;7 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="-1520" y="640" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="260" style="edgeStyle=none;html=1;" parent="1" source="150" target="253" edge="1">
+                <mxCell id="356" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="150" target="350">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="150" value="To free the people (socialist more realistic)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-1440" y="795" width="80" height="80" as="geometry"/>
+                <mxCell id="150" value="To free the people (socialist more realistic)&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;10 days&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-1850" y="801" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="261" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="153" target="254" edge="1">
+                <mxCell id="357" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="153" target="349">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="262" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="153" target="255" edge="1">
+                <mxCell id="153" value="To save a nation (revolutionary spd democratic more caught up in chaos&lt;div&gt;10 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-1120" y="780" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="355" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="156" target="351">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="153" value="To save a nation (revolutionary spd democratic more caught up in chaos" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-890" y="775.5" width="110" height="110" as="geometry"/>
+                <mxCell id="156" value="To burn the tyrants (world revolutionary communists) (very hard path)&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;10 days&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-2490" y="800" width="101" height="101" as="geometry"/>
                 </mxCell>
-                <mxCell id="258" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="156" target="250" edge="1">
+                <mxCell id="358" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="158" target="352">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="259" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="156" target="251" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="156" value="To burn the tyrants (world revolutionary communists) (very hard path)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-1879" y="780" width="101" height="101" as="geometry"/>
-                </mxCell>
-                <mxCell id="282" style="edgeStyle=none;html=1;" parent="1" source="158" target="281" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="158" value="To burn it all away (schzio anarchist path) (either insane buffs or really really hard)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2400" y="770" width="110" height="110" as="geometry"/>
+                <mxCell id="158" value="To burn it all away (schzio anarchist path) (really really hard)&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;10 days&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-3440" y="800" width="110" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="161" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="-2290" y="820" width="411" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="162" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="-1760" y="820" width="240" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="164" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="-1260" y="820" width="240" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="245" style="edgeStyle=none;html=1;" parent="1" source="165" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-600" y="1260" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="165" value="Democratic foreign policy*" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-640" y="1120" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="-3130" y="830" width="411" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="166" value="i am thinking for the radical left options the army/foreign policy trees will be baked in. with the two dem paths sharing some of the same tree but not all. also maybe a facist tag can be added for the civil war, and you would tag over with a decision. -space" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-2170" y="425" width="470" height="185" as="geometry"/>
-                </mxCell>
-                <mxCell id="167" value="will be looking at historical german budget stuff rest of this week and try to replace all this with a basic outline for the eco tree up untill-into war start. -space" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="260" y="1010" width="270" height="110" as="geometry"/>
-                </mxCell>
-                <mxCell id="168" value="over here will be spd forcing power away from the kaiser and cronies&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="-290" y="720" width="190" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="169" value="(description) The kaiser has long overstreched his authority, this assembly is here at the will of the german people. The kaiser can no longer hold a knife to the will of our nation, the budget will be used as the people have voted. If the Kaiser and his puppets will not relent we will organize a nationwide strike." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-1370" y="317.5" width="499" height="85" as="geometry"/>
@@ -749,305 +725,74 @@
                 <mxCell id="244" value="aftter the first balkan war&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="3240" y="770" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="246" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-640" y="1260" width="80" height="80" as="geometry"/>
+                <mxCell id="347" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+                    <mxGeometry x="-2340" y="830.5" width="411" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="247" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;endWidth=120;endSize=22.48;startWidth=280;startSize=14.92;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
-                    <mxGeometry width="100" height="100" relative="1" as="geometry">
-                        <mxPoint x="-2449" y="2120" as="sourcePoint"/>
-                        <mxPoint x="4049" y="2050" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="348" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+                    <mxGeometry x="-1650" y="821" width="411" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="268" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="248" target="266" edge="1">
+                <mxCell id="364" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="349" target="359">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="269" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="248" target="267" edge="1">
+                <mxCell id="349" value="Convince Local commanders&lt;br&gt;&lt;div&gt;Allows player/ai to begin to build up support in states (spainish civil war style)&lt;/div&gt;&lt;div&gt;pp +35&lt;/div&gt;&lt;div&gt;7 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-1140" y="920" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="363" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="350" target="360">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="248" value="who ned order" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2500" y="1020" width="80" height="80" as="geometry"/>
+                <mxCell id="350" value="Ignite revolutionary zeal&lt;div&gt;Allows player/ai to begin to build up support in states (spainish civil war style)&lt;/div&gt;&lt;div&gt;pp +35&lt;/div&gt;&lt;div&gt;7 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-1885" y="920" width="150" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="270" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="249" target="267" edge="1">
+                <mxCell id="365" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="351" target="361">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="249" value="left partys coallition" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2260" y="1020" width="80" height="80" as="geometry"/>
+                <mxCell id="351" value="Ignite revolutionary zeal&lt;div&gt;Allows player/ai to begin to build up support in states (spainish civil war style)&lt;/div&gt;&lt;div&gt;pp +35&lt;/div&gt;&lt;div&gt;7 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-2514.5" y="920" width="150" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="293" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="250" target="288">
+                <mxCell id="366" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="352" target="362">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="250" value="A marxist thinking&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-1980" y="970" width="80" height="80" as="geometry"/>
+                <mxCell id="352" value="Dismantle the institutions of state&lt;br&gt;&lt;div&gt;Allows player/ai to begin to build up support in states (spainish civil war style)&lt;/div&gt;&lt;div&gt;pp +35&lt;/div&gt;&lt;div&gt;7 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-3460" y="920" width="150" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="294" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="251" target="288">
+                <mxCell id="359" value="Pardon fencesitting generals in the courts of public opinion&lt;div&gt;when civil war starts Republic of german gains a few more generals (maybe adds &quot;democratic sympathys&quot;) + more brigade size divisions&lt;/div&gt;&lt;div&gt;25 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-1140" y="1120" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="360" value="Recruit revolutionary officers&lt;br&gt;&lt;div&gt;when civil war starts Social Republic of german gains a few more generals (maybe adds &quot;Socialist sympathys&quot;) + more brigade size divisions&lt;/div&gt;&lt;div&gt;25 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-1885" y="1120" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="361" value="Recruit forward thinking leaders from the peoples militia&lt;br&gt;&lt;div&gt;when civil war starts revolutionary front of german gains a few more generals (all with militia leader) + more brigade size divisions comprised of militia&lt;/div&gt;&lt;div&gt;25 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-2514.5" y="1120" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="362" value="Award the popular heros with command&lt;div&gt;when civil war start anarcho-commune of germany gains multiple field marshals (most with militia buffs, and expert delegator (more units per leader))&lt;/div&gt;&lt;div&gt;25 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-3460" y="1120" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="377" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="371" target="374">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="251" value="The budget cut aftermath" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-1760" y="970" width="80" height="80" as="geometry"/>
+                <mxCell id="371" value="Promote equitable capitalism&amp;nbsp;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;(requires not having previous modifer)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;add national modifer for 365 days &quot;empowered small businesses civilian construction speed +10% infastructure construction speed +25%&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="700" width="140" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="314" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="253" target="311">
+                <mxCell id="374" value="The law of enshrined civil rights, liberties, and democratic freedoms&lt;div&gt;democratic party will become the ruling party, add modifer &quot;Kaiser wilhelm II&quot; {sidelined autocrat: stability -5%}, {kaiser of germany: war support +5% defense on core territory +10%}&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-250" y="920" width="170" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="376" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="375" target="374">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="315" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="253" target="312">
+                <mxCell id="375" value="Prussian electoral reform&lt;div&gt;Stab -10%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-280" y="760" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="380" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="379" target="375">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="253" value="demand elections" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-1400" y="975" width="80" height="80" as="geometry"/>
+                <mxCell id="379" value="Utilize our majority government&lt;br&gt;&lt;div&gt;dem support +10%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-280" y="640" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="254" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-960" y="960" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="255" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-790" y="970" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="278" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="263" target="273" edge="1">
+                <mxCell id="382" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="381" target="379">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="296" style="edgeStyle=none;html=1;" edge="1" parent="1" source="263">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-2030" y="1330" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="263" value="A red germany" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2150" y="1160" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="264" value="" style="endArrow=none;dashed=1;html=1;exitX=0.426;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="263" target="250" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-2090" y="1030" as="sourcePoint"/>
-                        <mxPoint x="-2040" y="980" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="265" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.426;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="249" target="263" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-2090" y="1030" as="sourcePoint"/>
-                        <mxPoint x="-2040" y="980" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="275" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="266" target="272" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="266" value="Red army" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2600" y="1160" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="276" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="267" target="272" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="277" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="267" target="273" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="267" value="for the fatherland" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2380" y="1200" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="280" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="272" target="274" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="272" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2500" y="1320" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="279" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="273" target="274" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="273" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2260" y="1320" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="274" value="an anarchist rule" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2380" y="1420" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="283" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="281" target="248" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="284" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="281" target="249" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="281" value="ignite the revolution" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="-2390" y="940" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="303" style="edgeStyle=none;html=1;" edge="1" parent="1" source="285" target="302">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="285" value="publick support" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1630" y="1160" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="300" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="286" target="301">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-1850" y="1340" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="286" value="The true way of communism" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1797.5" y="1170" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="297" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="287" target="298">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-2030" y="1330" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="299" style="edgeStyle=none;html=1;" edge="1" parent="1" source="287">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-1860" y="1340" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="287" value="they refused&amp;nbsp;&lt;div&gt;Ignite a revolt&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1975" y="1160" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="289" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="288" target="287">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="290" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="288" target="286">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="292" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="288" target="263">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="288" value="demand elections" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1877.5" y="1060" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="291" style="edgeStyle=none;html=1;" edge="1" parent="1" source="288">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-1590" y="1160" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="295" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="287" target="286">
-                    <mxGeometry width="100" height="100" relative="1" as="geometry">
-                        <mxPoint x="-1630" y="1220" as="sourcePoint"/>
-                        <mxPoint x="-1530" y="1120" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="306" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="298" target="305">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="298" value="Ask lenins for help" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-2070" y="1330" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="307" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="301" target="305">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="301" value="the new order" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1895" y="1340" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="308" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="302" target="305">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="302" value="new ideas" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1630" y="1340" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="305" value="The constotusion&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1880" y="1510" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="309" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.125;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="310" target="153">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-940" y="860" as="sourcePoint"/>
-                        <mxPoint x="-1160" y="940" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="310" value="why two democratic paths ??" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-610" y="715" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="311" value="we failed" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1490" y="1080" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="316" style="edgeStyle=none;html=1;" edge="1" parent="1" source="312" target="317">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="-1290" y="1200" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="312" value="we succesed" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1270" y="1080" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="313" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="311" target="312">
-                    <mxGeometry width="100" height="100" relative="1" as="geometry">
-                        <mxPoint x="-1460" y="1120" as="sourcePoint"/>
-                        <mxPoint x="-1170" y="1020" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="321" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="317" target="320">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="317" value="new rule" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1270" y="1220" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="325" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="318" target="324">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="318" value="the coup" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1490" y="1340" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="322" style="edgeStyle=none;html=1;" edge="1" parent="1" source="319" target="318">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="323" style="edgeStyle=none;html=1;" edge="1" parent="1" source="319" target="311">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="319" value="rigreed election" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1490" y="1210" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="326" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="320" target="324">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="320" value="scosialist economy&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1270" y="1350" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="324" value="The new germany" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1380" y="1500" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="336" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="327" target="334">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="337" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="327" target="332">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="338" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="327" target="331">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="339" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="327" target="333">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="327" value="spread the revolution" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1880" y="1720" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="328" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="274" target="327">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-2260" y="1690" as="sourcePoint"/>
-                        <mxPoint x="-2210" y="1640" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="329" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="305" target="327">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-2260" y="1690" as="sourcePoint"/>
-                        <mxPoint x="-2210" y="1640" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="330" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="324" target="327">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="-1650" y="1690" as="sourcePoint"/>
-                        <mxPoint x="-1600" y="1640" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="342" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="331" target="340">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="331" value="ignite a revolution in poland" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1750" y="1870" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="343" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="332" target="340">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="332" value="The balkans" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1610" y="1810" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="341" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="333" target="340">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="333" value="Our allies in the south" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-2010" y="1870" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="344" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="334" target="340">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="334" value="The benelux" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-2165" y="1810" width="80" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="340" value="The entente" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="-1868.5" y="2000" width="80" height="80" as="geometry"/>
+                <mxCell id="381" value="Begin to sideline the Kaiser&lt;div&gt;Auth support -5%&lt;/div&gt;&lt;div&gt;(requires lib 1910 budget)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-290" y="520" width="100" height="100" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
