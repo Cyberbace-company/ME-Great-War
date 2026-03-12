@@ -1,163 +1,170 @@
 <mxfile host="65bd71144e">
     <diagram id="ZxbNPeM6uUXrSe3UmhyP" name="Infantry">
-        <mxGraphModel dx="3749" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2023" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="12">
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Early Squad Machine Guns (maxim gun)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 35.0&lt;/div&gt;&lt;div&gt;Soft Attack 3&lt;/div&gt;&lt;div&gt;Max Speed 3.0km/h&lt;/div&gt;&lt;div&gt;reliability 60.0%&lt;/div&gt;&lt;div&gt;Breakthrough 1.0&lt;/div&gt;&lt;div&gt;hard attack .5&lt;/div&gt;&lt;div&gt;Piercing 1.5&lt;/div&gt;&lt;div&gt;Production Cost 2.43&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="Early Squad Machine Guns (maxim gun)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 35.0&lt;/div&gt;&lt;div&gt;Soft Attack 3&lt;/div&gt;&lt;div&gt;Max Speed 3.0km/h&lt;/div&gt;&lt;div&gt;reliability 60.0%&lt;/div&gt;&lt;div&gt;Breakthrough 1.0&lt;/div&gt;&lt;div&gt;hard attack .5&lt;/div&gt;&lt;div&gt;Piercing 1.5&lt;/div&gt;&lt;div&gt;Production Cost 2.43&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="80" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="14">
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Gewehr 88 (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 18.0&lt;/div&gt;&lt;div&gt;Soft Attack 2.0&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 85%&lt;/div&gt;&lt;div&gt;Breakthrough 2.0&lt;/div&gt;&lt;div&gt;Hard Attack .5&lt;/div&gt;&lt;div&gt;Piercing 1.0&lt;/div&gt;&lt;div&gt;Production Cost 0.4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Gewehr 88 (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 18.0&lt;/div&gt;&lt;div&gt;Soft Attack 2.0&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 85%&lt;/div&gt;&lt;div&gt;Breakthrough 2.0&lt;/div&gt;&lt;div&gt;Hard Attack .5&lt;/div&gt;&lt;div&gt;Piercing 1.0&lt;/div&gt;&lt;div&gt;Production Cost 0.4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="320" width="280" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="1890" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="4" value="1890" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="80" width="80" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="1911" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="480" width="80" height="40" as="geometry"/>
+                <mxCell id="5" value="1910" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="16">
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;" parent="1" source="9" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Marines 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="9" value="Marines 1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="400" y="600" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="18">
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" parent="1" source="10" target="18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Rangers 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="10" value="Rangers 1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="400" y="760" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="20">
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" parent="1" source="11" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Mountain Infantry 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="11" value="Mountain Infantry 1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="400" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" style="edgeStyle=none;html=1;" edge="1" parent="1" source="12" target="34">
+                <mxCell id="36" style="edgeStyle=none;html=1;" parent="1" source="12" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Early MG Squad Tactics&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MG Support Company/battalion +10% Defense&lt;/div&gt;&lt;div&gt;Infantry Defense +5%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="500" y="80" width="160" height="160" as="geometry"/>
+                <mxCell id="12" value="Early MG Squad Tactics&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MG Support Company/battalion +10% Defense&lt;/div&gt;&lt;div&gt;Infantry Defense +5%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="80" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="25">
+                <mxCell id="26" style="edgeStyle=none;html=1;" parent="1" source="14" target="25" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Gewher 98 (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 23.0&lt;/div&gt;&lt;div&gt;Soft Attack 3.5&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 85%&lt;/div&gt;&lt;div&gt;Breakthrough 3.0&lt;/div&gt;&lt;div&gt;Hard Attack 1.0&lt;/div&gt;&lt;div&gt;Piercing 3.0&lt;/div&gt;&lt;div&gt;Production Cost 0.55&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="440" y="320" width="280" height="160" as="geometry"/>
+                <mxCell id="14" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Gewher 98 (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 23.0&lt;/div&gt;&lt;div&gt;Soft Attack 3.5&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 85%&lt;/div&gt;&lt;div&gt;Breakthrough 3.0&lt;/div&gt;&lt;div&gt;Hard Attack 1.0&lt;/div&gt;&lt;div&gt;Piercing 3.0&lt;/div&gt;&lt;div&gt;Production Cost 0.55&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="320" width="280" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="16" target="47">
+                <mxCell id="48" value="" style="edgeStyle=none;html=1;" parent="1" source="16" target="47" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="Marines 2&lt;div&gt;Soft Attack +5%&lt;/div&gt;&lt;div&gt;Org +5%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="16" value="Marines 2&lt;div&gt;Soft Attack +5%&lt;/div&gt;&lt;div&gt;Org +5%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="560" y="600" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="18" target="45">
+                <mxCell id="46" value="" style="edgeStyle=none;html=1;" parent="1" source="18" target="45" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="Rangers 2&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="18" value="Rangers 2&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="560" y="760" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20" target="49">
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;" parent="1" source="20" target="49" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="Mountain Infantry 2&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="20" value="Mountain Infantry 2&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="560" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" style="edgeStyle=none;html=1;" edge="1" parent="1" source="23" target="41">
+                <mxCell id="43" style="edgeStyle=none;html=1;" parent="1" source="23" target="41" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Kar98a (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 29.0&lt;/div&gt;&lt;div&gt;Soft Attack 4.0&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 90%&lt;/div&gt;&lt;div&gt;Breakthrough 4.0&lt;/div&gt;&lt;div&gt;Hard Attack 1.5&lt;/div&gt;&lt;div&gt;Piercing 4.0&lt;/div&gt;&lt;div&gt;Production Cost 0.6&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="1080" y="320" width="280" height="160" as="geometry"/>
+                <mxCell id="23" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Kar98a (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 29.0&lt;/div&gt;&lt;div&gt;Soft Attack 4.0&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 90%&lt;/div&gt;&lt;div&gt;Breakthrough 4.0&lt;/div&gt;&lt;div&gt;Hard Attack 1.5&lt;/div&gt;&lt;div&gt;Piercing 4.0&lt;/div&gt;&lt;div&gt;Production Cost 0.6&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="960" y="320" width="280" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="25" target="23">
+                <mxCell id="27" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="25" target="23" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="Improved Infantry Equipment I&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leg Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;mounted Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="800" y="320" width="160" height="160" as="geometry"/>
+                <mxCell id="25" value="Improved Infantry Equipment I&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leg Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;mounted Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="320" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="1913" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="850" width="70" height="40" as="geometry"/>
+                <mxCell id="28" value="1914" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1065" y="5" width="70" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="1916" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="1240" width="80" height="40" as="geometry"/>
+                <mxCell id="29" value="1917" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1660" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34" target="38">
+                <mxCell id="40" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="34" target="38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="Improved Squad Machine Gun (MG 08)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 45.0&lt;/div&gt;&lt;div&gt;Soft Attack 6.0&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;reliability 75.0%&lt;/div&gt;&lt;div&gt;Breakthrough 3.0&lt;/div&gt;&lt;div&gt;hard attack 2.0&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Piercing 2.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Production Cost 3.47&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="800" y="80" width="160" height="160" as="geometry"/>
+                <mxCell id="34" value="Improved Squad Machine Gun (MG 08)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 45.0&lt;/div&gt;&lt;div&gt;Soft Attack 6.0&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;reliability 75.0%&lt;/div&gt;&lt;div&gt;Breakthrough 3.0&lt;/div&gt;&lt;div&gt;hard attack 2.0&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Piercing 2.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Production Cost 3.47&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="80" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="38" target="53">
+                <mxCell id="55" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="38" target="53" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="Wartime MG Squad Tactics&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MG Support Company/battalion +10% Defense&lt;/div&gt;&lt;div&gt;Infantry Defense +5%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="1140" y="80" width="160" height="160" as="geometry"/>
+                <mxCell id="38" value="Wartime MG Squad Tactics&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MG Support Company/battalion +10% Defense&lt;/div&gt;&lt;div&gt;Infantry Defense +5%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1020" y="80" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41" target="61">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="2560" y="400" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="71" style="edgeStyle=none;html=1;" edge="1" parent="1" source="41" target="70">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" value="Improved Infantry Equipment II&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leg Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;mounted Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="1440" y="320" width="160" height="160" as="geometry"/>
+                <mxCell id="41" value="Improved Infantry Equipment II&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Leg Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;mounted Infantry soft attack +5%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="1320" y="320" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="Rangers 3&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;(jager support company?)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="45" value="Rangers 3&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;(jager support company?)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="760" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="Marines 3&lt;div&gt;Soft Attack +5%&lt;/div&gt;&lt;div&gt;Org +5%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="47" value="Marines 3&lt;div&gt;Soft Attack +5%&lt;/div&gt;&lt;div&gt;Org +5%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="600" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="Mountain Infantry 3&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="49" value="Mountain Infantry 3&lt;div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Soft Attack +5%&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Org +5%&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" value="1917" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="1480" width="80" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="66" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="53" target="65">
+                <mxCell id="66" value="" style="edgeStyle=none;html=1;" parent="1" source="53" target="65" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="Advanced Squad Machine Gun (MG 08/15)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 47.0&lt;/div&gt;&lt;div&gt;Soft Attack 11.0&lt;/div&gt;&lt;div&gt;Max Speed 6.0km/h&lt;/div&gt;&lt;div&gt;reliability 85.0%&lt;/div&gt;&lt;div&gt;Breakthrough 6.0&lt;/div&gt;&lt;div&gt;hard attack 4.0&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Piercing 3.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Production Cost 3.60&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="1440" y="80" width="160" height="160" as="geometry"/>
+                <mxCell id="53" value="Advanced Squad Machine Gun (MG 08/15)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 47.0&lt;/div&gt;&lt;div&gt;Soft Attack 11.0&lt;/div&gt;&lt;div&gt;Max Speed 6.0km/h&lt;/div&gt;&lt;div&gt;reliability 85.0%&lt;/div&gt;&lt;div&gt;Breakthrough 6.0&lt;/div&gt;&lt;div&gt;hard attack 4.0&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Piercing 3.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Production Cost 3.60&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1620" y="80" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="2580" y="130" width="80" height="80" as="geometry"/>
+                <mxCell id="60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="2840" y="80" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="Kar98k" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="2580" y="360" width="80" height="80" as="geometry"/>
+                <mxCell id="61" value="Kar98k" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="2840" y="360" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" value="~1920" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="1920" width="80" height="40" as="geometry"/>
+                <mxCell id="62" value="~1923" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="2200" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" value="~1936" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="2590" width="60" height="30" as="geometry"/>
+                <mxCell id="63" value="~1936" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="2840" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" value="Modern Squad Machine Gun (MG 13)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 50.0&lt;/div&gt;&lt;div&gt;Soft Attack 15.0&lt;/div&gt;&lt;div&gt;Max Speed 6.0km/h&lt;/div&gt;&lt;div&gt;reliability 90.0%&lt;/div&gt;&lt;div&gt;Breakthrough 8.0&lt;/div&gt;&lt;div&gt;hard attack 5.0&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Piercing 4.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Production Cost 4.00&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="1960" y="80" width="160" height="160" as="geometry"/>
+                <mxCell id="65" value="Modern Squad Machine Gun (MG 13)&lt;div&gt;(below is for the battalion, support idk)&lt;/div&gt;&lt;div&gt;Defense 50.0&lt;/div&gt;&lt;div&gt;Soft Attack 15.0&lt;/div&gt;&lt;div&gt;Max Speed 6.0km/h&lt;/div&gt;&lt;div&gt;reliability 90.0%&lt;/div&gt;&lt;div&gt;Breakthrough 8.0&lt;/div&gt;&lt;div&gt;hard attack 5.0&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Piercing 4.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Production Cost 4.00&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2160" y="80" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" value="blocked from researching if treaty of versailles is signed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="1880" y="240" width="120" height="80" as="geometry"/>
+                <mxCell id="68" value="blocked from researching if treaty of versailles is signed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1860" y="250" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="cu1PfEMp_WQz_PmUvyHv-71" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="cu1PfEMp_WQz_PmUvyHv-69" target="cu1PfEMp_WQz_PmUvyHv-70">
+                <mxCell id="cu1PfEMp_WQz_PmUvyHv-71" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="cu1PfEMp_WQz_PmUvyHv-69" target="cu1PfEMp_WQz_PmUvyHv-70" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="cu1PfEMp_WQz_PmUvyHv-69" value="Horse Drawn Carriage (same as base &#39;early truck&#39; only used for support companies or supply depots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="cu1PfEMp_WQz_PmUvyHv-69" value="Horse Drawn Carriage (same as base &#39;early truck&#39; only used for support companies or supply depots" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="40" y="520" width="180" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="cu1PfEMp_WQz_PmUvyHv-73" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="cu1PfEMp_WQz_PmUvyHv-70" target="cu1PfEMp_WQz_PmUvyHv-72">
+                <mxCell id="cu1PfEMp_WQz_PmUvyHv-73" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="cu1PfEMp_WQz_PmUvyHv-70" target="cu1PfEMp_WQz_PmUvyHv-72" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="cu1PfEMp_WQz_PmUvyHv-70" value="Early Transport Trucks (same only for support/logistics but better)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="cu1PfEMp_WQz_PmUvyHv-70" value="Early Transport Trucks (same only for support/logistics but better)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1130" y="520" width="180" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="cu1PfEMp_WQz_PmUvyHv-72" value="Early Motorized Infantry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="cu1PfEMp_WQz_PmUvyHv-72" value="Early Motorized Infantry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1870" y="520" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="70" target="72">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Kar98a/1916 (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 30.0&lt;/div&gt;&lt;div&gt;Soft Attack 4.5&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 85%&lt;/div&gt;&lt;div&gt;Breakthrough 4.0&lt;/div&gt;&lt;div&gt;Hard Attack 1.8&lt;/div&gt;&lt;div&gt;Piercing 4.2&lt;/div&gt;&lt;div&gt;Production Cost 0.55&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1560" y="320" width="280" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;span data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;Kar98b (german specific(name))&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Defense 30.0&lt;/div&gt;&lt;div&gt;Soft Attack 4.5&lt;/div&gt;&lt;div&gt;Max Speed 4.0km/h&lt;/div&gt;&lt;div&gt;Reliability 95%&lt;/div&gt;&lt;div&gt;Breakthrough 5.0&lt;/div&gt;&lt;div&gt;Hard Attack 2.5&lt;/div&gt;&lt;div&gt;Piercing 4.5&lt;/div&gt;&lt;div&gt;Production Cost 0.6&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2100" y="320" width="280" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1850" y="80" width="10" height="530" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
