@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
-    <diagram id="W4rTkrrh1Mt7Rhmvq8_p" name="Page-1">
-        <mxGraphModel dx="9180" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <diagram id="W4rTkrrh1Mt7Rhmvq8_p" name="Focus Tree">
+        <mxGraphModel dx="8823" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -28,21 +28,10 @@
                 <mxCell id="5" value="left oposition&lt;div&gt;45 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="-4320" y="200" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="400" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="9" target="385" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="1160" y="210"/>
-                            <mxPoint x="1160" y="210"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="433" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="31">
+                <mxCell id="436" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="436" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="20">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="437" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="117">
+                <mxCell id="437" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9" target="117" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="410" y="310"/>
@@ -50,8 +39,15 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="444" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="19">
+                <mxCell id="444" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-469" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="9" target="JfkFqqFZ2fWmBnoqWklm-468">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1000" y="270"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="9" value="Realpolitik" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="360" y="200" width="80" height="80" as="geometry"/>
@@ -59,10 +55,13 @@
                 <mxCell id="19" value="Keep the reichstag in its place&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;allows player to make more choices contrary to the reichstag in the 1910 budget&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="160" y="280" width="120" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="1910 budget&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;(starts and event chain where the player decides the 1910 budget during the focus length)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-472" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="20" target="JfkFqqFZ2fWmBnoqWklm-467">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="1910 budget&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;(starts and event chain where the player decides the 1910 budget during the focus length)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="320" y="360" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="438" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="26" target="62">
+                <mxCell id="438" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="26" target="62" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="800" y="600"/>
@@ -70,10 +69,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="442" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="26" target="63">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="446" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="26" target="445">
+                <mxCell id="446" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="26" target="445" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" value="All the Kaiser&#39;s men&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;35 days&lt;br&gt;&lt;/font&gt;&lt;div&gt;+100 pp&lt;/div&gt;&lt;/div&gt;&lt;div&gt;(requires any 1910 budget)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -88,15 +84,8 @@
                 <mxCell id="30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="31" target="39" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="434" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="31" target="33">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="980" y="330"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="31" value="Start of prewar army tree" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1365" y="320" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1365" y="560" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="33" target="86" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -105,22 +94,19 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="OHL tree start (war with major required) 7 days avaliable as political advisor ludendorf&lt;div&gt;civilian factory to military factory conversion speed +25% military factory output +5% dockyard output -10%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="920" y="1210" width="140" height="140" as="geometry"/>
+                    <mxGeometry x="920" y="1480" width="140" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="36" target="48" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="36" target="50" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="36" value="High command reforms branch" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1240" y="440" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1240" y="680" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="38" target="68" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="38" value="army innovation branch start&lt;div&gt;CP +30, land xp +40&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1365" y="440" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1365" y="680" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="393" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="39" target="386" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -132,70 +118,67 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="The winding down naval arms race&lt;div&gt;35 days event with breakdown on the naval arms race&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1530" y="410" width="110" height="110" as="geometry"/>
+                    <mxGeometry x="1530" y="650" width="110" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="455" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="48" target="54">
+                <mxCell id="455" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="48" target="54" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1120" y="760"/>
-                            <mxPoint x="1040" y="760"/>
+                            <mxPoint x="1120" y="1000"/>
+                            <mxPoint x="1040" y="1000"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="456" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="48" target="52">
+                <mxCell id="456" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="48" target="52" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1120" y="760"/>
-                            <mxPoint x="1150" y="760"/>
+                            <mxPoint x="1120" y="1000"/>
+                            <mxPoint x="1150" y="1000"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="457" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="48" target="452">
+                <mxCell id="457" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="48" target="452" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1120" y="760"/>
-                            <mxPoint x="1260" y="760"/>
+                            <mxPoint x="1120" y="1000"/>
+                            <mxPoint x="1260" y="1000"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="48" value="Revise the Schlieffen Plan&amp;nbsp;&lt;div&gt;70 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1080" y="650" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1080" y="890" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="50" target="71" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="50" value="Send experts to the austrian high command" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1240" y="560" width="80" height="80" as="geometry"/>
+                <mxCell id="50" value="Take over the austrian high command (at war *allied* with austria for more than 2 years)&lt;div&gt;35 days, minor buffs to austrian command&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="2020" y="960" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="52" target="60" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="52" value="Improving rail logistics into the benelux&lt;div&gt;70 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1110" y="800" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1110" y="1040" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="54" target="56" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="54" value="&lt;div&gt;The improved Schlieffen plan 35 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1000" y="800" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1000" y="1040" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="56" target="58" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="56" value="Improve Logistics into Belgium&amp;nbsp;&lt;div&gt;35 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1000" y="920" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1000" y="1160" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="58" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="Finalize the improvements&lt;div&gt;35 days&lt;/div&gt;&lt;div&gt;event about showing the kaiser the new/improved plans&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1035" y="1050" width="110" height="110" as="geometry"/>
+                    <mxGeometry x="1035" y="1290" width="110" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="60" target="58" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" value="&lt;div&gt;Seek Contracts with dutch Railways&lt;/div&gt;&lt;div&gt;70 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1110" y="921" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1110" y="1161" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="62" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -211,38 +194,38 @@
                     <mxGeometry x="860" y="810.5" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="63" value="Kaisers (governments) relationship with the junkers 35 days&lt;div&gt;3 civs OR 1 mil and 1 dockyard&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="520" y="560" width="120" height="120" as="geometry"/>
+                    <mxGeometry x="-70" y="440" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="66" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="1080" y="640" as="targetPoint"/>
+                        <mxPoint x="1080" y="880" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="66" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="1020" y="740" as="targetPoint"/>
+                        <mxPoint x="1020" y="980" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="66" value="this tree will bypass with no buffs if not finished before war start" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="990" y="530" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="990" y="770" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="68" target="72" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="68" value="Improve understanding of &quot;Machine guns&quot; (support mg research buff)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1365" y="650" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1365" y="890" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="71" value="Improve fortifications along the eastern border" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1240" y="670" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="2400" y="1110.5" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="72" target="105" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="72" value="streamline research of new weapons technologies&lt;div&gt;+research slot&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1365" y="770" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1365" y="1010" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="73" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
-                    <mxGeometry x="1070" y="821" width="50" height="40" as="geometry"/>
+                    <mxGeometry x="1070" y="1061" width="50" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="77" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
                     <mxGeometry x="-4220" y="180" width="1790" height="40" as="geometry"/>
@@ -256,19 +239,19 @@
                 <mxCell id="419" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="86" target="417" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1880" y="1490"/>
-                            <mxPoint x="2150" y="1490"/>
+                            <mxPoint x="1880" y="1760"/>
+                            <mxPoint x="2150" y="1760"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="86" value="Continue innovation efforts&lt;div&gt;70 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1840" y="1370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1840" y="1640" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="88" value="Begin research of &quot;land cruisers&quot;&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;unlocks tank special project&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1720" y="1530" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1720" y="1800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="90" value="Prototype weaponized aircraft&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;unlocks fighter special project&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1960" y="1530" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1960" y="1800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="99" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="96" target="98" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -277,28 +260,28 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="96" value="The backbone of the german army" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1320" y="1370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1320" y="1640" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="98" target="102" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="98" value="Early Infantry Unit Tactics&lt;div&gt;+infantry specialization +35%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1400" y="1530" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1400" y="1800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="104" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="100" target="102" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="100" value="Creeping artillery&lt;div&gt;artillery specialization +15% soft attack +15%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1240" y="1530" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1240" y="1800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="102" value="Bite and hold&lt;div&gt;Infantry division org +10%, hp +5%,&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1320" y="1650" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1320" y="1920" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="108" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" parent="1" source="105" target="107" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="105" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1365" y="930" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1365" y="1170" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="109" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="107" target="86" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -307,25 +290,22 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="107" value="Begin production of new weapons of war&amp;nbsp; 35 days&lt;div&gt;effect: production efficiency growth +25% for 70 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1350" y="1090" width="110" height="110" as="geometry"/>
+                    <mxGeometry x="1350" y="1330" width="110" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="135" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="110" target="134" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="110" value="Enlist Haber" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1560" y="1370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1560" y="1640" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="440" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="117" target="63">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="443" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="117" target="26">
+                <mxCell id="443" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="117" target="26" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="117" value="Refer to the kaiser on matters of state&lt;div&gt;35 days(requires either conservative budget or kaiser gov)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="520" y="360" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="134" value="Chemical weapons?&lt;div&gt;(1917)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1560" y="1530" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1560" y="1800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="147" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="144" target="146" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -432,7 +412,7 @@
                     <mxGeometry x="-4765" y="190" width="255" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="180" value="Mobilize the economy 14 days&lt;div&gt;add war economy&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="960" y="1370" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="960" y="1640" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="181" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="33" target="180" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -482,104 +462,236 @@
                 <mxCell id="384" value="WORK IN PROGREES IGNORE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-3600" y="100" width="350" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="399" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="385" target="398" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="1920" y="320"/>
-                            <mxPoint x="1800" y="320"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="385" value="Weltpolitik" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1880" y="200" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1820" y="340" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="408" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="386" target="387" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="416" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="386" edge="1">
-                    <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="1760" y="690" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="386" value="Haldane Mission&lt;div&gt;completed by event&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1680" y="560" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1680" y="800" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="406" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="387" target="405" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="387" value="anglo-german naval agreement&lt;div&gt;replace winding down naval arms race with anglo-german naval agreement: dockyard build speed -90% dockyard output -75% mil factory output +10% consumer goods factor -10%&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1600" y="680" width="150" height="150" as="geometry"/>
+                    <mxGeometry x="1600" y="920" width="150" height="150" as="geometry"/>
                 </mxCell>
                 <mxCell id="402" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="389" target="401" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="389" value="Damn the brits" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1480" y="680" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="1480" y="920" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="390" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1560" y="690" width="40" height="60" as="geometry"/>
+                    <mxGeometry x="1560" y="930" width="40" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="425" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="398" target="386" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1800" y="530"/>
-                            <mxPoint x="1740" y="530"/>
+                            <mxPoint x="1800" y="770"/>
+                            <mxPoint x="1740" y="770"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="398" value="The Agadir Crisis&lt;div&gt;&amp;nbsp;7 days&lt;/div&gt;&lt;div&gt;decide to send the sms panther or not. starts event chain regarding german proposals&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1740" y="360" width="120" height="120" as="geometry"/>
+                    <mxGeometry x="1740" y="600" width="120" height="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="401" value="&lt;i&gt;Finish the&amp;nbsp;&lt;/i&gt;&lt;span data-processed=&quot;true&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;&lt;em data-processed=&quot;true&quot; class=&quot;eujQNb&quot;&gt;König class&lt;/em&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-processed=&quot;true&quot; data-sfc-cp=&quot;&quot; class=&quot;T286Pc&quot;&gt;&lt;em data-processed=&quot;true&quot; class=&quot;eujQNb&quot;&gt;creates four&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;em style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot; data-processed=&quot;true&quot; class=&quot;eujQNb&quot;&gt;König class ships based on 1910 battleship hull&lt;/em&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1465" y="801" width="110" height="110" as="geometry"/>
+                    <mxGeometry x="1465" y="1041" width="110" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="405" value="Anglo-German De-entent&lt;div&gt;signs non-agressions pact between germany and uk&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="1625.5" y="861" width="99" height="99" as="geometry"/>
+                    <mxGeometry x="1625.5" y="1101" width="99" height="99" as="geometry"/>
                 </mxCell>
                 <mxCell id="417" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="2110" y="1530" width="80" height="80" as="geometry"/>
+                    <mxGeometry x="2110" y="1800" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="466" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="426" target="386">
+                <mxCell id="466" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="426" target="386" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="426" value="requires agadir crisis to be resolved" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="1790" y="575" width="80" height="50" as="geometry"/>
+                    <mxGeometry x="1790" y="815" width="80" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="445" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="445" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="760" y="640" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="449" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="447" target="448">
+                <mxCell id="449" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" parent="1" source="447" target="448" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="447" value="Continue explotation of our colonies&lt;div&gt;adds off map rubber and tungsten in exchange for manpower&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="640" y="801" width="120" height="120" as="geometry"/>
+                <mxCell id="447" value="Continue explotation of our colonies&lt;div&gt;adds off map rubber and tungsten in exchange for manpower&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-545" y="710" width="120" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="448" value="Reinforce our colonial holdings&lt;div&gt;manpower and guns which will keep the previous effect for an extra year into any major war&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="640" y="1001" width="120" height="120" as="geometry"/>
+                <mxCell id="448" value="Reinforce our colonial holdings&lt;div&gt;manpower and guns which will keep the previous effect for an extra year into any major war&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="-545" y="910" width="120" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="451" value="industrial&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="560" width="80" height="520" as="geometry"/>
+                <mxCell id="451" value="industrial&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-200" y="610" width="80" height="520" as="geometry"/>
                 </mxCell>
-                <mxCell id="452" value="Revise the original plan&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-                    <mxGeometry x="1220" y="800" width="80" height="80" as="geometry"/>
+                <mxCell id="452" value="Revise the original plan&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="1220" y="1040" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="459" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
-                    <mxGeometry x="1180" y="820" width="50" height="40" as="geometry"/>
+                <mxCell id="459" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
+                    <mxGeometry x="1180" y="1060" width="50" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="461" value="war industrial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="840" y="1480" width="360" height="260" as="geometry"/>
+                <mxCell id="461" value="war industrial" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="1750" width="360" height="260" as="geometry"/>
                 </mxCell>
-                <mxCell id="462" value="civilian industrial/infa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="720" width="120" height="480" as="geometry"/>
+                <mxCell id="462" value="civilian industrial/infa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-360" y="330" width="120" height="480" as="geometry"/>
                 </mxCell>
-                <mxCell id="464" value="war political" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="280" y="1480" width="520" height="360" as="geometry"/>
+                <mxCell id="464" value="war political" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="1750" width="520" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="467" value="External relations of the german reich" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2260" y="550" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-474" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-467" target="JfkFqqFZ2fWmBnoqWklm-473">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-467" value="Continue Fighting Overcrowding&lt;div&gt;35 days&amp;nbsp;&lt;/div&gt;&lt;div&gt;adds infastructure to all major german cities/industrial centers&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="560" width="160" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-471" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-468" target="JfkFqqFZ2fWmBnoqWklm-470">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-468" value="Propose the army bill of 1912&lt;div&gt;7 days&lt;/div&gt;&lt;div&gt;(after 4/1/12)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="960" y="480" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-470" value="Propose the army bill of 1913&lt;div&gt;&lt;div&gt;14 days&lt;/div&gt;&lt;/div&gt;&lt;div&gt;(after 5/1/13)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="960" y="640" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-476" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-473" target="JfkFqqFZ2fWmBnoqWklm-475">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-524" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-473" target="JfkFqqFZ2fWmBnoqWklm-523">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-473" value="1912 budget&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;(similar event chain to the previous)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="800" width="160" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-475" value="1913 budget&lt;div&gt;70 days&lt;/div&gt;&lt;div&gt;(similar event chain to the previous)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1040" width="160" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-501" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-477" target="JfkFqqFZ2fWmBnoqWklm-483">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="2100" y="820"/>
+                            <mxPoint x="2130" y="820"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-514" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-477" target="50">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-477" value="Austria&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2040" y="720" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-496" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-478" target="JfkFqqFZ2fWmBnoqWklm-485">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-502" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-478" target="JfkFqqFZ2fWmBnoqWklm-483">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-478" value="Italy&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2160" y="720" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-491" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-479" target="JfkFqqFZ2fWmBnoqWklm-487">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-506" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-479" target="JfkFqqFZ2fWmBnoqWklm-505">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="2560" y="990"/>
+                            <mxPoint x="2560" y="990"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-511" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-479" target="JfkFqqFZ2fWmBnoqWklm-504">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-479" value="The Sublime Port&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2520" y="720" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-516" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-480" target="71">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-520" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-480" target="JfkFqqFZ2fWmBnoqWklm-488">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-480" value="Russia&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2400" y="721" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-492" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-481" target="JfkFqqFZ2fWmBnoqWklm-487">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-522" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-481" target="JfkFqqFZ2fWmBnoqWklm-518">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-481" value="Bulgaria&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2640" y="720" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-482" value="The United kingdom&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="1920" y="720" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-483" value="Reaffirm The Triple alliance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2100" y="840" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-497" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-484" target="JfkFqqFZ2fWmBnoqWklm-485">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-500" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-484" target="JfkFqqFZ2fWmBnoqWklm-499">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-484" value="France&lt;div&gt;14 days&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2280" y="721" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-485" value="Promise french lands to italy (for neutrality or joining the central powers)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2220" y="840" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-487" value="Help Settle the thrace issue (post balkan war)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2580" y="840" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-488" value="Extend the railway into western anatolia (Ahistorical, if taken within 6 months of the liman crisis much larger crisis and possible war start)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2395" y="970" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-499" value="Counter French agitators in Elsab (zabern affair?)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2280" y="961" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-503" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1.038;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-482" target="386">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-513" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-504" target="JfkFqqFZ2fWmBnoqWklm-488">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-504" value="The berlin to baghdad railway" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2460" y="840" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-508" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-505" target="JfkFqqFZ2fWmBnoqWklm-507">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-505" value="Send military advisors to the turkish general staff (allows decision for the asien corp)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2515" y="1005" width="90" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-507" value="Form&amp;nbsp;&lt;i&gt;Heeresgruppe F (after great war has started)&lt;/i&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2540" y="1130" width="90" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-521" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="JfkFqqFZ2fWmBnoqWklm-509" target="JfkFqqFZ2fWmBnoqWklm-505">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-509" value="starts the&amp;nbsp;&lt;div data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; style=&quot;display: contents&quot; data-subtree=&quot;aimfl,mfl&quot;&gt;&lt;/div&gt;&lt;strong data-processed=&quot;true&quot; data-sfc-cb=&quot;&quot; class=&quot;Yjhzub&quot;&gt;Liman von Sanders Mission Crisis&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2680" y="1080" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-518" value="Military Mission to the prussian tsardom" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="2640" y="961" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="JfkFqqFZ2fWmBnoqWklm-523" value="Finish the 1912 Army Bill&lt;div&gt;70 days (event chain during the focus similar to budget, army/production buffs&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="930" width="120" height="120" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="wPS6l9QK15bXIQttKRt_" name="National spirits">
-        <mxGraphModel dx="1086" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2023" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -602,7 +714,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HXgfPUDQFxduMZcrBy77" name="events">
-        <mxGraphModel dx="1086" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2023" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
