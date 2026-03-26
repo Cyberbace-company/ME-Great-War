@@ -14,14 +14,18 @@ tags={
 name="ME Great War"
 
 replace_path="map"
+replace_path="history/states"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
-replace_path="history/states"
-replace_path="history/countries"
+
 replace_path="common/country_tags"
 replace_path="common/countries"
-replace_path="common/country_tag_aliases"
-replace_path="common/bookmarks"
+replace_path="history/countries"
+replace_path="history/units"
+
+replace_path="common/on_actions"
+replace_path="common/ai_strategy"
+replace_path="common/ai_strategy_plans"
 
 supported_version="1.17.3.0"
 path="C:/Users/tarom/Documents/Paradox Interactive/Hearts of Iron IV/mod/ME-Great-War"

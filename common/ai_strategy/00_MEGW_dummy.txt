@@ -1,0 +1,5 @@
+ai_strategy = {
+    type = prepare_for_war
+    id = 1
+    value = 0
+}

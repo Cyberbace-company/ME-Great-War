@@ -1,0 +1,4 @@
+on_actions = {
+    on_game_start = { }
+    on_daily = { }
+}

@@ -1,0 +1,33 @@
+
+
+focus_tree = {
+	id = germany_WW1_focus_tree
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = GER
+		} 
+	}
+
+	default = no
+
+	continuous_focus_position = { x = 200 y = 2300 }
+    focus = {
+        id = GER_state_of_the_empire
+
+		x = 25
+		y = 0
+
+		cost = 2
+		completion_reward = {
+			GER = {
+				country_event = {
+					id = GER_internal_politics.1
+					hours = 1
+				}
+			}
+		}
+	}
+}
