@@ -1,0 +1,63 @@
+from left to right
+
+(communism
+    sub ideologies
+    leninism
+    totalism (kaiserreich)
+    classical marxism
+    proto-national communism
+    council communism
+)
+(radical socialism
+    sub ideologies
+    syndicalism
+    anarcho-syndicalism
+    anarcho-communism
+    luxemburgism
+    guild socialism (british/anglo exclusive)
+    radical socialism (generic)
+    agrarian socialism
+    anarchism
+)
+(social democracy
+    sub ideologies
+    democratic socialism
+    social democracy/orthodox social democracy (generic)
+    liberal social democracy
+    laborism (british/anglo exclusive)
+    
+)
+(Market liberalism
+    sub ideologies
+    classical liberalism
+    progressive liberalism (BULL MOOSE BABY)
+
+)
+(conservatisve democracy
+    sub ideologies
+    Liberal conservatism
+    Social conservatism
+    Christian democracy
+    consitiutional conservatism
+    agrarian conservatism
+)
+(authoritarian democracy
+    sub ideologies
+    paternalistic democracy
+    military democracy
+    guided democracy
+    clerical democracy
+)
+(authoritarian
+    sub ideologies
+    absolutist
+    military dictatorship
+    personalistic dictatorship
+)
+(Proto-fascism
+    sub ideologies
+    proto-fascist
+    national populism
+    ultra nationalism
+    national syndicalism (proto national socialism)
+)
