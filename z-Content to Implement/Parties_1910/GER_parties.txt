@@ -1,0 +1,52 @@
+(communist party
+    Name: Dissunited Communist Factions (or whatever)
+    abbreviation: KPD
+    starting support: 0.0%
+    starting leader: disjointed spd members
+    Party discription: Marxist thought in Germany is currently dominated by the SDP and has no true revolutionary leadership. 
+)
+(radical socialist party
+    Name: Social Democratic Party of Germany (left wing)
+    abbreviation: SPD-L
+    starting support: 9.0%
+    starting leader: Rosa Luxemburg
+    Party discription: The left wing of the SPD is not a true party but a faction within the SPD, striving to push the party towards a more revolutionary direction to bring about socialist change in Germany.
+)
+(social democratic party
+    Name: Social Democratic Party of Germany
+    abbreviation: SPD
+    starting support: 35.0%
+    starting leader: August Bebel
+    Party discription: The SPD is the largest and most influential Left wing party in Germany, advocating for social democracy and the rights of workers. Currently dominated by reformist leadership, the party is focused on
+    achieving gradual social change through parliamentary reforms and democratic action rather than revolution.
+)
+(market liberal party
+    Name: National Liberal Party
+    abbreviation: NLP
+    starting support: 14.0%
+    starting leader: Ernst Von Bassermann
+    Party discription: The National Liberal party 
+)
+(social conservative party
+    Name: Centre Party (Zentrum)
+    abbreviation: ZEN
+    starting support: 19.8%
+    starting leader: Georg von Hertling
+)
+(Authoritarian Dem Party
+    Name: German Conservative Party
+    abbreviation: DKP
+    starting support: 15.7%
+    starting leader: Ernst von Heydebrand und der Lasa
+)
+(Authoritarian Party
+    Name: Haus Hohenzollern
+    abbreviation: HH
+    starting support: 6.0%
+    starting leader: Kaiser Wilhelm II
+)
+(proto-fascist party
+    Name: Pan-German League
+    abbreviation: PGL
+    starting support: .5%
+    starting leader: Heinrich Class)

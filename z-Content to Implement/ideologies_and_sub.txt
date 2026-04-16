@@ -7,13 +7,14 @@ from left to right
     classical marxism
     proto-national communism
     council communism
+    luxemburgism
 )
 (radical socialism
     sub ideologies
     syndicalism
     anarcho-syndicalism
-    anarcho-communism
     luxemburgism
+    anarcho-communism
     guild socialism (british/anglo exclusive)
     radical socialism (generic)
     agrarian socialism
